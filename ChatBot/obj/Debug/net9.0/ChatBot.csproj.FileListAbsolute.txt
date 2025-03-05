@@ -12,3 +12,4 @@
 /home/ratix/Public/Csharp/ChatBot/ChatBot/obj/Debug/net9.0/ChatBot.pdb
 /home/ratix/Public/Csharp/ChatBot/ChatBot/obj/Debug/net9.0/ChatBot.genruntimeconfig.cache
 /home/ratix/Public/Csharp/ChatBot/ChatBot/obj/Debug/net9.0/ref/ChatBot.dll
+/home/ratix/Public/Csharp/ChatBot/ChatBot/obj/Debug/net9.0/ChatBot.sourcelink.json

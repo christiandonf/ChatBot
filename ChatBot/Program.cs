@@ -15,7 +15,7 @@ dialogs.Add("resposta nao consta", "Se o produto não consta na nota fiscal, ent
 dialogs.Add("resposta cortado", "Certo. Abra uma ocorrência de falta de produto:\nCategoria: Pós-compra\nSubcategoria: Falta\nMotivo: Produto não faturado.");
 dialogs.Add("Cadastro", "Cliente está com problema no cadastro? Qual a mensagem de erro?");
 dialogs.Add("Cadastro, CPF já cadastrado", "Quando ocorre esse erro Você tem quem reprocessar no GPP \nCaso não apareceça em 5 minutos \nPrencha esse formulário \nMatricula: \nCPF: \n Nome Completo: \nData de nascimento: \n Cep: \nEndereço completo: \nE-mail: \nTelefone de contato:");
-dialogs.Add("help", "Voce pode me perguntar sobre Pedidos, sobre o que fazer quando tem Atraso, se esta em Falta ou ate mesmo sobre o cadastro do cliente, caso deseje finalizar nossa coneversa digite 'sair' para encerrar.");
+dialogs.Add("help", "Voce pode me perguntar sobre Pedidos, sobre o que fazer quando tem Atraso, se esta em Falta ou ate mesmo sobre o cadastro do cliente, caso deseje finalizar nossa conversa digite 'sair' para encerrar.");
 otherDialogs.Add("erro", "Desculpe, não entendi. Pode reformular?");
 otherDialogs.Add("farewells", "Até mais! Volte sempre que precisar. 😊");
 otherDialogs.Add("welcome", "Olá! Meu nome é Rey. Com o que o cliente está tendo problema?");
