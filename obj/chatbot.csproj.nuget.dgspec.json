@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/home/ratix/Public/Csharp/ChatBot/ChatBot/ChatBot.csproj": {}
+    "C:\\Users\\jdonasch\\Projetos\\ChatBot\\chatbot.csproj": {}
   },
   "projects": {
-    "/home/ratix/Public/Csharp/ChatBot/ChatBot/ChatBot.csproj": {
+    "C:\\Users\\jdonasch\\Projetos\\ChatBot\\chatbot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ratix/Public/Csharp/ChatBot/ChatBot/ChatBot.csproj",
-        "projectName": "ChatBot",
-        "projectPath": "/home/ratix/Public/Csharp/ChatBot/ChatBot/ChatBot.csproj",
-        "packagesPath": "/home/ratix/.nuget/packages/",
-        "outputPath": "/home/ratix/Public/Csharp/ChatBot/ChatBot/obj/",
+        "projectUniqueName": "C:\\Users\\jdonasch\\Projetos\\ChatBot\\chatbot.csproj",
+        "projectName": "chatbot",
+        "projectPath": "C:\\Users\\jdonasch\\Projetos\\ChatBot\\chatbot.csproj",
+        "packagesPath": "C:\\Users\\jdonasch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdonasch\\Projetos\\ChatBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ratix/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jdonasch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
